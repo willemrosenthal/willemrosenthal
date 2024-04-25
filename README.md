@@ -1,8 +1,8 @@
 Hi, I’m Willem Rosenthal 👋
 
-I'm a Full stack developer with a background in JavaScript and C#, coding since I got my first Tamagotchi at 10 years old. My day-to-day is happily spend working in React, Redux, Node and Express. I love working on developer tools and collaborating on open source.
+I'm a full stack engineer with a background in JavaScript and C#, coding since I got my first Tamagotchi at 10 years old. My day-to-day is happily spent working in React, Redux, Node and Express. I love working on developer tools and collaborating on open source projects.
 
-I'm passionate about game development, and worked on everything from game architecture, to physics, AI state machines and shaders. I'm always eager to learn new tech and stay up on the latest industry trends.
+Game development is a passion of mine, but I also love creating great feeling, user-friendly apps and experiences. I'm always working on new chrome extensions, tools, and any idea that pops into my head and am always eager to learn new tech and stay up on the latest industry trends.
 
 I've founded two companies, released products on iOS, Android, Web, Steam, Nintendo Switch, totaling of millions of users and tens of thousands of 5-star ratings.
 
